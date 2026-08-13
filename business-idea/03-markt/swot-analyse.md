@@ -1,0 +1,15 @@
+# SWOT-analyse
+
+## Overzicht
+
+| | **Positief** | **Negatief** |
+|---|---|---|
+| **Intern** | **Sterktes**<br>- Uitsluitend milieuvriendelijke materialen als harde eis (geen marketingclaim), sluit direct aan op de missie van het bedrijf<br>- Circulair model pakt een aantoonbaar groot probleem aan (circa 80% van al het speelgoed eindigt op de vuilnisbelt of in de verbrandingsoven)<br>- Terugkerende omzet via abonnementen, voorspelbaarder dan eenmalige verkoop<br>- Bewezen model: vergelijkbare bedrijven (Pligo, RePlayClub, Whirli) draaien al succesvol | **Zwaktes**<br>- Hoge kapitaalbehoefte vooraf voor de startvoorraad (circa € 15.000 – € 30.000), nog voordat er abonnementsomzet binnenkomt<br>- Onbekend merk zonder trackrecord ten opzichte van gevestigde concurrenten<br>- Operationeel complex: reiniging, keuring, retourlogistiek en voorraadbeheer per artikel vergen meer systemen dan reguliere verkoop<br>- Beperkte schaalvoordelen in de startfase (hogere kosten per abonnee dan bij gevestigde spelers) |
+| **Extern** | **Kansen**<br>- Groeiende markt: Nederland was in 2025 wereldwijd de snelst groeiende grote speelgoedmarkt (+15%), markt voor milieuvriendelijk speelgoed groeit circa 10–13% per jaar<br>- B2B-kanaal (kinderdagverblijven) dat bestaande concurrenten mogelijk onderbedienen<br>- Subsidies/regelingen voor de circulaire economie (gemeente, provincie, RVO) kunnen de financieringsbehoefte verlagen<br>- Mogelijke uitbreiding naar andere leeftijdsgroepen, regio's of landen zodra het model gevalideerd is | **Bedreigingen**<br>- Gevestigde directe concurrenten (Pligo, RePlayClub) met bestaande merkbekendheid en logistiek<br>- Internationale spelers (bv. Whirli) zouden de Nederlandse markt kunnen betreden<br>- Traditionele, goedkope speelgoedwinkels blijven voor veel ouders het gemakkelijke standaardalternatief<br>- Aanscherping van regelgeving (bv. toekomstige EN 71-updates) kan compliance-kosten verhogen<br>- Schade, verlies of vervuiling van verhuurd speelgoed drukt de marge als dit niet volledig door de borg wordt gedekt<br>- Hoge churn ondermijnt voorraadplanning en marge (zie `04-financieel-plan/liquiditeitsbegroting.md`) |
+
+## Belangrijkste implicaties
+- De sterkste troef van het bedrijf (100% milieuvriendelijke materialen) moet zichtbaar en bewijsbaar blijven, niet alleen als marketingtekst — dit is het onderscheid ten opzichte van Pligo en RePlayClub (zie `concurrentie.md`).
+- De grootste zwakte (kapitaalbehoefte vooraf) vraagt om een kleinschalige pilot en zorgvuldige liquiditeitsplanning voordat wordt opgeschaald.
+- De grootste bedreiging (gevestigde concurrenten) pleit voor een duidelijke niche-positionering bij start (bijvoorbeeld een specifieke leeftijdsgroep, regio, of het B2B-kanaal) in plaats van rechtstreeks landelijk te concurreren.
+
+*Bronnen: sciencedirect.com, beyondplastics.org, vocal.media (Nederlandse speelgoedmarkt 2026), gminsights.com, pligo.nl, replayclub.nl, whirli.com — zie ook `concurrentie.md` en `doelgroep.md` voor onderliggende cijfers.*

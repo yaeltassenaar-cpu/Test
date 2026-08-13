@@ -20,7 +20,7 @@ bronvermelding bij statistieken, consistente valutanotatie.
 
 - `01-ondernemer/` — Over de ondernemer: motivatie, doelen, vaardigheden *(persoonlijke input nog nodig)*
 - `02-onderneming/` — Het bedrijfsidee: missie, product/dienst, rechtsvorm ✅ concept gereed
-- `03-markt/` — Marktonderzoek: doelgroep, concurrentie, marketingplan ✅ concept gereed
+- `03-markt/` — Marktonderzoek: doelgroep, concurrentie, marketingplan, SWOT-analyse ✅ concept gereed
 - `04-financieel-plan/` — Financieel plan: investerings-, financierings-, exploitatie- en liquiditeitsbegroting ✅ concept gereed (indicatieve cijfers — te valideren)
 - `05-kvk-registratie/` — KVK-inschrijving: bedrijfsnaam, SBI-codes, checklist ✅ concept gereed (bedrijfsnaam nog te kiezen)
 - `06-na-registratie/` — Bedrijfsvoering: administratie, belastingen, verzekeringen, vergunningen ✅ concept gereed
