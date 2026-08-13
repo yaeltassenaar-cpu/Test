@@ -41,3 +41,24 @@ gepresenteerd.
 Wijzig je een bestand in `business-idea/` — handmatig of via Claude — volg
 dan deze regels. Nieuwe bestanden in deze map beginnen in het Nederlands, in
 dezelfde toon en opmaak.
+
+## Consistentiecontrole bij elke wijziging
+Bij elke aanpassing aan een bestand in `business-idea/` (nieuw, gewijzigd of
+verwijderd) geldt de volgende procedure, zonder uitzondering:
+
+1. **Controleer het effect op andere bestanden**: ga na welke andere
+   bestanden in `business-idea/` verwijzen naar, voortbouwen op, of
+   cijfers/keuzes delen met het gewijzigde onderdeel (bv. een gewijzigde
+   doelgroep, prijs, aantal abonnees, rechtsvorm, of tijdlijn).
+2. **Signaleer tegenstrijdigheden expliciet**: benoem concreet welk
+   bestand, welke passage, en welke tegenstrijdigheid ontstaat — niet
+   alleen dat er "mogelijk impact" is.
+3. **Vraag eerst toestemming**: wijzig géén ander bestand automatisch mee.
+   Leg de gevonden tegenstrijdigheden en de voorgestelde aanpassing voor
+   aan de gebruiker en wacht op akkoord voordat de andere bestanden worden
+   aangepast.
+4. Pas na toestemming de aangewezen bestanden aan, en vermeld in de
+   commitboodschap welke bestanden zijn meegewijzigd en waarom.
+
+Deze procedure geldt voor elke toekomstige wijziging aan documenten in deze
+map, ongeacht wie of wat de wijziging aanbrengt.
