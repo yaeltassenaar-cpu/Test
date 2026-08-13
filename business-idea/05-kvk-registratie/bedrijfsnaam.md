@@ -1,8 +1,8 @@
 # Bedrijfsnaam
 
-## Naamcriteria (per KVK)
-Herkenbaar, onthoudbaar, voldoet aan naamvereisten, uniek in het
-Handelsregister — plus (voor deze zaak) idealiter een naam die de
+## Naamcriteria (conform KVK)
+Herkenbaar, onthoudbaar, voldoet aan de naamvereisten, uniek in het
+Handelsregister — plus, voor dit bedrijf, bij voorkeur een naam die de
 duurzaamheids-/circulaire propositie communiceert.
 
 ## Brainstorm — kandidaten (nog te kiezen)
@@ -11,13 +11,13 @@ duurzaamheids-/circulaire propositie communiceert.
 | GroenSpeelt | Duurzaam + spelen, Nederlandstalig, makkelijk te onthouden |
 | ToyLoop | Circulariteit ("loop"), internationaal bruikbaar |
 | PlayCircle | Circulair spelen, Engelstalig/internationaal |
-| Speelgoedkring | Verwijst naar kringloop/circulair, Nederlandstalig |
+| Speelgoedkring | Verwijst naar kringloop/circulariteit, Nederlandstalig |
 | RentelKids | Huren + kinderen |
 
 ## Te controleren per kandidaat
-- [ ] Uniek in KVK Handelsregister (handelsnaamcheck)
+- [ ] Uniek in het KVK Handelsregister (handelsnaamcheck)
 - [ ] Domeinnaam (.nl / .com) beschikbaar
-- [ ] Social media handles beschikbaar (Instagram, TikTok)
+- [ ] Social-mediaprofielen beschikbaar (Instagram, TikTok)
 - [ ] Geen conflict met bestaande merken (Pligo, RePlayClub, Whirli, etc.)
 
 **Gekozen bedrijfsnaam:** *(nog te bepalen)*

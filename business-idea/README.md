@@ -1,41 +1,48 @@
-# Business Idea: Sustainable Toy Rental Subscription
+# Ondernemingsplan: duurzaam speelgoedverhuurabonnement
 
-A monthly subscription service where parents rent children's toys — made
-entirely from environmentally friendly materials — instead of buying them.
-Toys are returned/swapped when outgrown and passed on to the next family,
-cutting down toy waste (an estimated ~80% of all toys end up in landfill or
-incineration today).
+Een maandelijks abonnement waarbij ouders kinderspeelgoed huren — volledig
+vervaardigd uit milieuvriendelijke materialen — in plaats van het te kopen.
+Speelgoed wordt geretourneerd/geruild zodra het is ontgroeid en doorgegeven
+aan het volgende gezin, wat speelgoedafval vermindert (naar schatting
+belandt circa 80% van al het speelgoed vandaag op de vuilnisbelt of in de
+verbrandingsoven).
 
-This folder collects everything needed to develop and register the business,
-structured around the [KVK](https://www.kvk.nl) (Kamer van Koophandel)
-approach to writing an ondernemingsplan (business plan) and starting a
-business in the Netherlands.
+Deze map bevat alles wat nodig is om het bedrijf te ontwikkelen en in te
+schrijven, gestructureerd volgens de aanpak van de
+[KVK](https://www.kvk.nl) (Kamer van Koophandel) voor het schrijven van een
+ondernemingsplan en het starten van een bedrijf in Nederland.
 
-## Structure
+**Schrijfstijl**: alle documenten in deze map volgen de regels in
+[`CLAUDE.md`](./CLAUDE.md) — Nederlands, formeel ondernemingsplan-register,
+bronvermelding bij statistieken, consistente valutanotatie.
 
-- `01-ondernemer/` — About you: motivation, goals, entrepreneurial skills *(needs your personal input)*
-- `02-onderneming/` — The business idea: mission, product/service, legal form ✅ drafted
-- `03-markt/` — Market research: target audience, competition, marketing plan ✅ drafted
-- `04-financieel-plan/` — Financial plan: investment, financing, operating and cash flow budgets ✅ drafted (illustrative figures — validate with real quotes)
-- `05-kvk-registratie/` — KVK registration: business name, SBI codes, checklist ✅ drafted (business name still to choose)
-- `06-na-registratie/` — Running the business: bookkeeping, taxes, insurance, permits ✅ drafted
+## Structuur
 
-## Key findings from desk research
-- **Direct competitors already exist in NL**: Pligo and RePlayClub run
-  comparable toy rental subscriptions; Whirli (UK) validates the model at
-  larger scale. See `03-markt/concurrentie.md`.
-- **SBI code**: 77.29.9 — Verhuur van overige consumentenartikelen.
-- **BTW**: 21% standard rate applies to rental services.
-- **Legal**: EN 71 (incl. new EN 71-20 hygiene standard) compliance is
-  mandatory for every toy, rented or sold, in the EU.
-- **Biggest risk**: upfront inventory investment before subscription revenue
-  ramps up — plan cash flow carefully (see `04-financieel-plan/liquiditeitsbegroting.md`).
+- `01-ondernemer/` — Over de ondernemer: motivatie, doelen, vaardigheden *(persoonlijke input nog nodig)*
+- `02-onderneming/` — Het bedrijfsidee: missie, product/dienst, rechtsvorm ✅ concept gereed
+- `03-markt/` — Marktonderzoek: doelgroep, concurrentie, marketingplan ✅ concept gereed
+- `04-financieel-plan/` — Financieel plan: investerings-, financierings-, exploitatie- en liquiditeitsbegroting ✅ concept gereed (indicatieve cijfers — te valideren)
+- `05-kvk-registratie/` — KVK-inschrijving: bedrijfsnaam, SBI-codes, checklist ✅ concept gereed (bedrijfsnaam nog te kiezen)
+- `06-na-registratie/` — Bedrijfsvoering: administratie, belastingen, verzekeringen, vergunningen ✅ concept gereed
 
-## Progress
+## Belangrijkste bevindingen uit deskresearch
+- **Directe concurrenten al actief in Nederland**: Pligo en RePlayClub
+  bieden vergelijkbare speelgoedverhuurabonnementen aan; Whirli
+  (Verenigd Koninkrijk) bevestigt het model op grotere schaal. Zie
+  `03-markt/concurrentie.md`.
+- **SBI-code**: 77.29.9 — Verhuur van overige consumentenartikelen.
+- **BTW**: algemeen tarief van 21% van toepassing op verhuurdiensten.
+- **Juridisch**: EN 71-conformiteit (incl. de nieuwe EN 71-20-hygiënenorm)
+  is verplicht voor elk stuk speelgoed, verhuurd of verkocht, binnen de EU.
+- **Grootste risico**: de voorraadinvestering vooraf, vóórdat de
+  abonnementsomzet op gang komt — de kasstroom zorgvuldig plannen (zie
+  `04-financieel-plan/liquiditeitsbegroting.md`).
 
-- [ ] 01 - Ondernemer *(personal sections still open)*
-- [x] 02 - Onderneming *(draft — review & refine)*
-- [x] 03 - Markt *(draft — review & refine)*
-- [x] 04 - Financieel plan *(draft with illustrative figures — validate)*
-- [ ] 05 - KVK registratie *(draft — business name to be chosen)*
-- [x] 06 - Na registratie *(draft — review & refine)*
+## Voortgang
+
+- [ ] 01 - Ondernemer *(persoonlijke onderdelen nog open)*
+- [x] 02 - Onderneming *(concept — controleren en verfijnen)*
+- [x] 03 - Markt *(concept — controleren en verfijnen)*
+- [x] 04 - Financieel plan *(concept met indicatieve cijfers — valideren)*
+- [ ] 05 - KVK-registratie *(concept — bedrijfsnaam nog te kiezen)*
+- [x] 06 - Na registratie *(concept — controleren en verfijnen)*

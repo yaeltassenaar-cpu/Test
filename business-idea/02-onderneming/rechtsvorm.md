@@ -1,28 +1,32 @@
 # Rechtsvorm
 
 ## Overwegingen
-- **Aansprakelijkheid**: this business rents physical products to families
-  with young children — product safety/liability risk (choking hazards,
-  injuries, allergic reactions to materials) is real, even with EN 71
-  compliance. That's an argument for a legal form with limited liability
-  (BV) once volume/risk grows, combined with business liability insurance
-  (bedrijfsaansprakelijkheidsverzekering) regardless of legal form.
-- **Belasting**: an eenmanszaak is taxed via inkomstenbelasting (with
-  zelfstandigenaftrek/startersaftrek and MKB-winstvrijstelling available to
-  reduce taxable profit in the early, low-profit years); a BV is taxed via
-  vennootschapsbelasting and requires a notary to set up (~€500+) plus more
-  administrative overhead (annual accounts, salary for the director).
-- **Oprichtingskosten**: eenmanszaak = only the one-time KVK registration fee
-  (~€82); BV = notary costs + more ongoing accounting costs.
+- **Aansprakelijkheid**: het bedrijf verhuurt fysieke producten aan gezinnen
+  met jonge kinderen — het productveiligheids-/aansprakelijkheidsrisico is
+  reëel (verstikkingsgevaar, letsel, allergische reacties op materialen),
+  ook bij volledige EN 71-conformiteit. Dit pleit voor een rechtsvorm met
+  beperkte aansprakelijkheid (BV) zodra volume/risico toeneemt, gecombineerd
+  met een bedrijfsaansprakelijkheidsverzekering ongeacht de gekozen
+  rechtsvorm.
+- **Belasting**: een eenmanszaak wordt belast via de inkomstenbelasting (met
+  zelfstandigenaftrek/startersaftrek en MKB-winstvrijstelling die de
+  belastbare winst in de eerste, winstarme jaren verlagen); een BV wordt
+  belast via de vennootschapsbelasting en vereist oprichting via een
+  notaris (circa € 500 of meer) plus meer administratieve lasten
+  (jaarrekening, salaris voor de directeur).
+- **Oprichtingskosten**: eenmanszaak = alleen de eenmalige
+  KVK-inschrijvingskosten (circa € 82); BV = notariskosten plus hogere
+  doorlopende boekhoudkosten.
 
 ## Aanbevolen aanpak
-Start as an **eenmanszaak** (or **VOF** if launching with a co-founder) to
-keep costs and admin low while validating the model, take out
-business/product liability insurance from day one to cover the main risk that
-a BV would otherwise shield against, and convert to a **BV** once revenue,
-inventory value, or risk exposure grows enough that limited liability becomes
-worth the extra cost and admin (a common growth path for Dutch product
-rental/e-commerce starters).
+Starten als **eenmanszaak** (of **VOF** bij oprichting met een
+mede-oprichter) om kosten en administratie laag te houden tijdens de
+validatie van het model, vanaf dag één een bedrijfs-/
+productaansprakelijkheidsverzekering afsluiten om het belangrijkste risico
+af te dekken dat een BV anders zou beperken, en overstappen naar een **BV**
+zodra omzet, voorraadwaarde of risico-omvang groot genoeg is om de beperkte
+aansprakelijkheid de extra kosten en administratie waard te maken — een
+gangbaar groeipad voor Nederlandse starters in productverhuur/e-commerce.
 
-**Gekozen rechtsvorm:** *(to be decided — recommend eenmanszaak/VOF at
-launch, see above)*
+**Gekozen rechtsvorm:** *(nog te bepalen — advies: eenmanszaak/VOF bij start,
+zie hierboven)*

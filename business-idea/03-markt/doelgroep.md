@@ -1,31 +1,37 @@
 # Doelgroep
 
 ## Primaire doelgroep
-- Parents/caregivers of children aged **0–6 years** (fastest toy turnover,
-  matches what Dutch competitors Pligo and RePlayClub target).
-- Environmentally conscious, middle-to-higher income households in urban and
-  suburban areas (Randstad first: Amsterdam, Utrecht, Rotterdam, Den Haag —
-  highest density of the target profile and easiest for delivery logistics).
-- Millennial/Gen X parents who are actively trying to reduce plastic/waste in
-  their household and are willing to pay a premium for sustainable,
-  non-toxic products for their children.
-- Parents dealing with toy clutter and cost of constantly buying
-  age-appropriate toys as their child develops fast.
+- Ouders/verzorgers van kinderen van **0–6 jaar** (snelste
+  speelgoedwissel, sluit aan bij de doelgroep van de Nederlandse
+  concurrenten Pligo en RePlayClub).
+- Milieubewuste huishoudens met een gemiddeld tot hoger inkomen in stedelijke
+  en randstedelijke gebieden (Randstad als startgebied: Amsterdam, Utrecht,
+  Rotterdam, Den Haag — hoogste dichtheid van de doelgroep en meest
+  efficiënte bezorglogistiek).
+- Ouders (millennials/generatie X) die actief plastic/afval in het
+  huishouden proberen te verminderen en bereid zijn een meerprijs te betalen
+  voor duurzame, niet-toxische producten voor hun kinderen.
+- Ouders die te maken hebben met speelgoedrommel en de kosten van continu
+  leeftijdsgeschikt speelgoed kopen tijdens de snelle ontwikkeling van hun
+  kind.
 
 ## Secundaire doelgroep
-- **Kinderdagverblijven / peuterspeelzalen (daycares)**: B2B channel — daycares
-  need rotating, safe, high-quality toys and could be a bulk-rental customer
-  segment distinct from individual households.
-- Grandparents/gift-givers looking for a sustainable, non-cluttering gift
-  option (gift subscriptions).
+- **Kinderdagverblijven / peuterspeelzalen**: B2B-kanaal — deze organisaties
+  hebben behoefte aan roterend, veilig en kwalitatief hoogwaardig speelgoed
+  en vormen een potentieel bulkverhuur-segment naast individuele
+  huishoudens.
+- Grootouders/cadeaugevers die op zoek zijn naar een duurzaam,
+  niet-rommelig cadeau (cadeauabonnementen).
 
 ## Marktomvang (indicatie)
-- The Netherlands was the fastest-growing major toy market globally in 2025
-  (+15% YoY), and the global eco-friendly toys market is projected to grow
-  from ~€27.9B (2026) to ~€70B (2035), ~10–13% CAGR — both point to a growing
-  addressable market for a sustainability-positioned toy business.
-- Two established direct competitors (Pligo, RePlayClub) already operating
-  nationally in NL confirms the model has proven demand, while leaving room
-  to differentiate (see `concurrentie.md`).
+- Nederland was in 2025 wereldwijd de snelst groeiende grote speelgoedmarkt
+  (+15% ten opzichte van het jaar ervoor), en de wereldwijde markt voor
+  milieuvriendelijk speelgoed wordt geraamd te groeien van circa € 27,9
+  miljard (2026) naar circa € 70 miljard (2035), een jaarlijkse groei van
+  circa 10–13% — beide wijzen op een groeiende markt voor een op
+  duurzaamheid gepositioneerd speelgoedbedrijf.
+- Twee gevestigde directe concurrenten (Pligo, RePlayClub) die al landelijk
+  actief zijn in Nederland bevestigen dat er bewezen vraag is naar dit
+  model, met ruimte om te onderscheiden (zie `concurrentie.md`).
 
-*Sources: vocal.media (NL toy market 2026), gminsights.com.*
+*Bronnen: vocal.media (Nederlandse speelgoedmarkt 2026), gminsights.com.*

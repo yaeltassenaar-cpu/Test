@@ -1,18 +1,23 @@
 # Motivatie en doelen
 
 ## Waarom dit bedrijf (zoals aangeleverd)
-Reduce waste in the children's toys industry: an estimated ~80% of toys end
-up in landfill/incineration, and toys are typically made of non-recyclable
-mixed plastics. A rental model directly attacks this by keeping toys in use
-across many families instead of one, using only environmentally friendly
-materials.
+De ondernemer wil speelgoedafval verminderen: naar schatting belandt circa
+80% van al het speelgoed uiteindelijk op de vuilnisbelt of in de
+verbrandingsoven, en conventioneel speelgoed bestaat doorgaans uit
+niet-recyclebare gemengde kunststoffen. Een verhuurmodel pakt dit direct
+aan door speelgoed voor meerdere gezinnen in omloop te houden, met
+uitsluitend milieuvriendelijke materialen.
 
-## Nog in te vullen (persoonlijk — door jou)
-- [ ] Persoonlijke motivatie: wat drijft *jou* specifiek om dit te starten
-      (bv. eigen ervaring als ouder, duurzaamheidsachtergrond, ondernemersdrang)?
-- [ ] Korte termijn doel (bv. eerste 50 abonnees binnen 6 maanden in [stad])
-- [ ] Middellange termijn doel (bv. landelijke dekking, X abonnees jaar 2)
-- [ ] Lange termijn doel / impact-ambitie (bv. X kg speelgoedafval bespaard)
-- [ ] Hoeveel tijd kun je er wekelijks in steken (parttime naast baan / fulltime)?
-- [ ] Hoeveel eigen geld kun je/wil je investeren (koppel aan
-      `04-financieel-plan/financieringsbegroting.md`)?
+*Bronnen: sciencedirect.com, beyondplastics.org.*
+
+## Nog in te vullen (persoonlijk)
+- [ ] Persoonlijke motivatie: wat drijft de ondernemer specifiek om dit te
+      starten (bv. ervaring als ouder, duurzaamheidsachtergrond,
+      ondernemersdrang)?
+- [ ] Korte-termijndoel (bv. eerste 50 abonnees binnen zes maanden in
+      [stad])
+- [ ] Middellange-termijndoel (bv. landelijke dekking, X abonnees in jaar 2)
+- [ ] Lange-termijndoel / impactambitie (bv. X kg speelgoedafval bespaard)
+- [ ] Beschikbare tijd per week (parttime naast een baan / fulltime)
+- [ ] Beschikbaar eigen kapitaal (koppelen aan
+      `04-financieel-plan/financieringsbegroting.md`)

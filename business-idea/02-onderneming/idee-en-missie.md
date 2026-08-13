@@ -1,44 +1,50 @@
 # Idee en missie
 
 ## Het idee
-A toy rental subscription service for families with young children. Instead of
-buying toys that get outgrown or discarded within months, parents pay a fixed
-monthly fee to borrow toys from our collection. When the child has outgrown or
-lost interest in a toy, it's returned (or swapped for another) and passed on to
-the next family. All toys are made from environmentally friendly materials
-(FSC-certified wood, organic textiles, recycled/bio-based plastics, natural
-dyes/finishes) — no virgin single-use plastic.
+Een speelgoedverhuurabonnement voor gezinnen met jonge kinderen. In plaats
+van speelgoed te kopen dat binnen enkele maanden wordt ontgroeid, betaalt de
+klant een vast maandbedrag om speelgoed te lenen uit de collectie van het
+bedrijf. Zodra een kind uitgekeken is op een stuk speelgoed, wordt het
+geretourneerd (of geruild) en doorgegeven aan het volgende gezin. Al het
+speelgoed is vervaardigd uit milieuvriendelijke materialen (FSC-gecertificeerd
+hout, biologisch textiel, gerecycled/biobased kunststof, natuurlijke
+verf/afwerking) — geen maagdelijk wegwerpplastic.
 
 ## Missie
-Reduce toy waste and the environmental footprint of childhood play by keeping
-toys in circulation for as many families as possible, while giving parents an
-affordable, clutter-free, and safe way to give their children a constantly
-refreshed range of toys.
+Het verminderen van speelgoedafval en de milieu-impact van kinderspeelgoed
+door speelgoed zo lang mogelijk in omloop te houden voor zoveel mogelijk
+gezinnen, terwijl ouders een betaalbare, opgeruimde en veilige manier krijgen
+om hun kind continu vernieuwd speelgoed aan te bieden.
 
-## Probleem dat we oplossen
-- **Toy waste is enormous**: an estimated ~80% of toys eventually end up in
-  landfill, incineration, or the ocean; toys make up close to 6% of landfill
-  plastics, and Western children own an average of ~18 kg of plastic toys each.
-  Most conventional toys are made of mixed plastics/metal that can't be
-  recycled economically.
-- **Short useful life per household**: children outgrow toys or lose interest
-  within weeks to months, so most of a toy's usable life is wasted once it
-  leaves a single family.
-- **Cost and clutter for parents**: buying age-appropriate toys continuously is
-  expensive and creates storage/clutter problems; parents increasingly want
-  fewer, better, non-toxic toys rather than more plastic.
+## Probleem dat het bedrijf oplost
+- **Speelgoedafval is omvangrijk**: naar schatting belandt circa 80% van al
+  het speelgoed uiteindelijk op de vuilnisbelt, in de verbrandingsoven of in
+  de oceaan; speelgoed vormt bijna 6% van het plastic afval op stortplaatsen,
+  en kinderen in westerse landen bezitten gemiddeld circa 18 kg plastic
+  speelgoed. Het meeste conventionele speelgoed bestaat uit gemengde
+  materialen (plastic/metaal) die economisch niet te recyclen zijn.
+- **Korte gebruiksduur per huishouden**: kinderen groeien binnen weken tot
+  maanden uit speelgoed of raken de interesse kwijt, waardoor het grootste
+  deel van de levensduur van een stuk speelgoed onbenut blijft zodra het één
+  gezin verlaat.
+- **Kosten en rommel voor ouders**: continu leeftijdsgeschikt speelgoed kopen
+  is duur en zorgt voor opslag-/rommelproblemen; ouders willen in toenemende
+  mate minder maar beter, niet-toxisch speelgoed in plaats van meer plastic.
 
 ## Waarom dit werkt (marktvalidatie)
-This model already exists and is growing: Pligo and RePlayClub operate toy
-rental subscriptions in the Netherlands today (ages roughly 0–6, credit/token
-based swapping, sustainably sourced toys, professional cleaning between
-rentals), and Whirli runs a comparable, larger-scale token-based model in the
-UK (from £9.99/month). The global sustainable/eco-friendly toy market is
-forecast to grow at roughly 11–13% CAGR through the early 2030s, and the
-Netherlands was the fastest-growing major toy market globally in 2025 (+15%
-YoY) — both point to strong demand tailwinds for a sustainability-positioned,
-circular toy business.
+Dit model bestaat al en groeit: Pligo en RePlayClub bieden vandaag al
+speelgoedverhuurabonnementen aan in Nederland (leeftijd circa 0–6 jaar,
+krediet-/tokensysteem, duurzaam geproduceerd speelgoed, professionele
+reiniging tussen verhuringen), en Whirli exploiteert een vergelijkbaar,
+grootschaliger tokenmodel in het Verenigd Koninkrijk (vanaf £ 9,99 per maand
+— Britse referentie, geen Nederlandse markt). De wereldwijde markt voor
+duurzaam/milieuvriendelijk speelgoed groeit naar verwachting met circa
+11–13% per jaar tot begin jaren 2030, en Nederland was in 2025 wereldwijd de
+snelst groeiende grote speelgoedmarkt (+15% ten opzichte van het jaar
+ervoor) — beide wijzen op sterke marktgroei voor een op duurzaamheid
+gepositioneerd, circulair speelgoedbedrijf.
 
-*Sources: sciencedirect.com (toy LCA), beyondplastics.org, ballardbear.com,
-pligo.nl, replayclub.nl, whirli.com, gminsights.com (eco-friendly toys market),
-vocal.media (NL toy market 2026).*
+*Bronnen: sciencedirect.com (levenscyclusanalyse speelgoed), beyondplastics.org,
+ballardbear.com, pligo.nl, replayclub.nl, whirli.com, gminsights.com
+(markt voor milieuvriendelijk speelgoed), vocal.media (Nederlandse
+speelgoedmarkt 2026).*
