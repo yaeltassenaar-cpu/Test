@@ -19,8 +19,12 @@ Voorgestelde startstructuur (te valideren met een kleine pilot):
 - **Plus** — circa € 29 per maand (groter krediet, onbeperkt wisselen)
 - **Gezin/Kinderdagverblijf** — maatwerkprijs voor bulk-/B2B-afname
 
-Een terugbetaalbare borg per verhuurperiode is gebruikelijk in dit model en
-verdient overweging om verlies-/schaderisico deels af te dekken.
+**Borg**: een terugbetaalbare borg van € 25 per abonnement (Basis) tot
+€ 40 per abonnement (Plus) wordt bij aanvang eenmalig in rekening gebracht
+en volledig terugbetaald bij beëindiging, mits het geretourneerde speelgoed
+niet beschadigd is. De borg dekt het verlies-/schaderisico deels af (zie
+`swot-analyse.md`, bedreigingen) en wordt niet als omzet geboekt (zie
+`04-financieel-plan/exploitatiebegroting.md`).
 
 ## Plaats
 - Rechtstreeks aan de consument via een eigen webshop, landelijke bezorging

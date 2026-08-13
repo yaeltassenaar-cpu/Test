@@ -32,9 +32,10 @@ krediet-/tokensysteem (vergelijkbaar met Pligo, RePlayClub en Whirli):
   belandt standaard op de stortplaats.
 
 ## Doelgroep per fase (leeftijdscategorieën)
-De speelgoedbehoefte verandert snel in de vroege kinderjaren, daarom is de
-catalogus en de abonnementsstructuur ingedeeld naar leeftijdsgroep, bv.
-0–1, 1–2, 2–4 en 4–6 jaar — vergelijkbaar met de indeling bij Pligo en
+De speelgoedbehoefte verandert snel in de vroege kinderjaren. In de
+pilotfase richt de catalogus zich uitsluitend op **0–2 jaar** (zie
+`03-markt/doelgroep.md`, startniche); na validatie wordt uitgebreid naar
+1–2, 2–4 en 4–6 jaar — vergelijkbaar met de indeling bij Pligo en
 RePlayClub.
 
 ## Operationele stappen
@@ -46,3 +47,22 @@ RePlayClub.
 4. Picken, inpakken en verzenden naar de klant; retourlabel inbegrepen.
 5. Inspectie bij retour; reparatie, herplaatsing in de collectie, of
    afvoeren.
+
+## Operationele risico's en mitigatie
+- **Reiniging/hygiëne**: in de pilotfase wordt reiniging uitbesteed aan een
+  gespecialiseerde textiel-/speelgoedreiniger in plaats van dit intern op
+  te zetten — voorkomt een grote vaste investering in
+  reinigingsapparatuur voordat het volume dit rechtvaardigt (zie
+  `04-financieel-plan/investeringsbegroting.md`, fase 1).
+- **Retourlogistiek**: gebruikmaken van een externe pakketdienst met
+  vaste tarieven per pick-and-pack (€ 2–4, zie
+  `04-financieel-plan/exploitatiebegroting.md`) in plaats van eigen
+  bezorging op te zetten, om de operationele complexiteit in de pilotfase
+  te beperken.
+- **Beschadigd/verloren speelgoed**: gedekt door de borg per abonnement
+  (zie `03-markt/marketingplan.md`) en de voorraadverzekering (zie
+  `06-na-registratie/verzekeringen.md`).
+- **Opschalen van kwaliteitscontrole**: bij uitbreiding naar fase 2 (zie
+  investeringsbegroting) wordt het reinigings-/keuringsproces heroverwogen
+  op interne uitvoering, zodra het volume een eigen opstelling
+  rendabel maakt.

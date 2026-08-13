@@ -25,6 +25,16 @@ bronvermelding bij statistieken, consistente valutanotatie.
 - `05-kvk-registratie/` — KVK-inschrijving: bedrijfsnaam, SBI-codes, checklist ✅ concept gereed (bedrijfsnaam nog te kiezen)
 - `06-na-registratie/` — Bedrijfsvoering: administratie, belastingen, verzekeringen, vergunningen ✅ concept gereed
 
+## Verwerkte verbeteringen op basis van de SWOT-analyse
+Op basis van `03-markt/swot-analyse.md` zijn de belangrijkste (P0/P1)
+verbeteringen doorgevoerd: een gekozen startniche (0–2 jaar, regio Utrecht,
+zie `03-markt/doelgroep.md`), een gefaseerde investeringsbegroting om het
+startkapitaal te beperken, een vastgesteld borgbedrag, concrete
+retentietactieken tegen churn, en een sectie operationele risico's en
+mitigatie. Overige suggesties (concurrentievergelijkingstabel, B2B-kanaal
+uitwerken, subsidies uitzoeken, impactdashboard) staan als vervolgstappen
+open.
+
 ## Belangrijkste bevindingen uit deskresearch
 - **Directe concurrenten al actief in Nederland**: Pligo en RePlayClub
   bieden vergelijkbare speelgoedverhuurabonnementen aan; Whirli
