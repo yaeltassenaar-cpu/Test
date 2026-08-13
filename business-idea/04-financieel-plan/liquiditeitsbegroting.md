@@ -11,7 +11,7 @@ op worden gepland.
 | Maand 1 | € 0 (nog geen lancering) | Investering voorraad + opstart (grootste deel) | Sterk negatief |
 | Maand 2–3 | Eerste abonnees (langzame groei) | Doorlopende kosten + resterende voorraad | Negatief |
 | Maand 4–6 | Groeiende abonneebasis | Doorlopende kosten + marketingkosten | Verbeterend, mogelijk nog negatief |
-| Maand 7–12 | Abonneebasis richting doel (circa 150) | Doorlopende kosten, voorraadaanvulling | Neutraal tot licht positief |
+| Maand 7–12 | Abonneebasis richting fase 1-doel (circa 60, regio Utrecht — zie `04-financieel-plan/exploitatiebegroting.md`) | Doorlopende kosten, voorraadaanvulling | Neutraal tot licht positief |
 
 ## Aandachtspunten
 - Een kasbuffer aanhouden voor minimaal 3–6 maanden vaste kosten.
