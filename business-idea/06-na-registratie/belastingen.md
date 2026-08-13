@@ -1,6 +1,6 @@
 # Belastingen
 
-- **BTW**: verhuur van roerende zaken (zoals speelgoed) valt in Nederland
+- **BTW**: verhuur van roerende zaken (zoals kleding) valt in Nederland
   onder het **algemene BTW-tarief van 21%** (geen verlaagd tarief van
   toepassing op dit type verhuurdienst) — dit doorrekenen in de
   abonnementsprijs. Het BTW-nummer wordt automatisch toegekend na
@@ -15,7 +15,7 @@
   - Startersaftrek (extra aftrek in de eerste drie jaar)
   - MKB-winstvrijstelling
   - Kleinschaligheidsinvesteringsaftrek (KIA) — relevant gezien de
-    omvangrijke investering in speelgoedvoorraad
+    investering in kledingvoorraad en wasapparatuur/logistiek
 - **Actie**: de BTW-behandeling en aftrekposten bevestigen met een
   boekhouder/de Belastingdienst vóór lancering, met name gezien de omvang
   van de voorraadinvestering (afschrijving/KIA kan fiscaal significant

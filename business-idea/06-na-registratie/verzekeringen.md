@@ -1,17 +1,21 @@
 # Verzekeringen
 
-Aangezien het bedrijf fysieke producten aan kinderen verhuurt, is verzekering
-geen aanvullende overweging maar een kernonderdeel van het risicobeheer.
+Het bedrijf verhuurt kleding aan gezinnen met jonge kinderen. Het risico is
+minder ernstig van aard dan bij fysiek speelgoed, maar verzekering blijft
+een kernonderdeel van het risicobeheer — met name vanwege huidcontact,
+allergieën en de wettelijke eisen aan koorden/treksluitingen en
+brandbaarheid van kinderslaapkleding.
 
-- **Bedrijfsaansprakelijkheidsverzekering (AVB)** — essentieel: dekt schade/
-  letsel door een verhuurd product (bv. een defect of onveilig stuk
-  speelgoed), ook wanneer alles EN 71-gecertificeerd is.
+- **Bedrijfsaansprakelijkheidsverzekering (AVB)** — essentieel: dekt
+  schade/letsel door een verhuurd kledingstuk (bv. een allergische reactie
+  of een niet-conforme sluiting), ook wanneer alles GOTS-/OEKO-TEX-
+  gecertificeerd is.
 - **Product-/beroepsaansprakelijkheid** — expliciet controleren of
-  "producten in omloop" (verhuurde artikelen) gedekt zijn, niet alleen het
-  eigen bedrijfspand.
+  "producten in omloop" (verhuurde kledingstukken) gedekt zijn, niet alleen
+  het eigen bedrijfspand.
 - **Voorraadverzekering** — dekt schade/diefstal/brand van de
-  speelgoedvoorraad (aanzienlijke waarde, zie investeringsbegroting).
-- **Transportverzekering** — voor verzending en retour van speelgoed.
+  kledingvoorraad (zie investeringsbegroting).
+- **Transportverzekering** — voor verzending en retour van kleding.
 - **Rechtsbijstandverzekering** — voor geschillen met klanten, leveranciers
   of over algemene voorwaarden (bv. bij schade/verlies door de huurder).
 - **Arbeidsongeschiktheidsverzekering (AOV)** — aan te raden voor de
@@ -19,5 +23,5 @@ geen aanvullende overweging maar een kernonderdeel van het risicobeheer.
   aanbevolen).
 
 **Actie**: offertes opvragen bij minimaal twee tot drie verzekeraars vóór de
-eerste verhuring; de AVB moet actief zijn voordat het eerste product de deur
-uitgaat.
+eerste verhuring; de AVB moet actief zijn voordat het eerste kledingstuk de
+deur uitgaat.

@@ -1,23 +1,25 @@
 # Motivatie en doelen
 
 ## Waarom dit bedrijf (zoals aangeleverd)
-De ondernemer wil speelgoedafval verminderen: naar schatting belandt circa
-80% van al het speelgoed uiteindelijk op de vuilnisbelt of in de
-verbrandingsoven, en conventioneel speelgoed bestaat doorgaans uit
-niet-recyclebare gemengde kunststoffen. Een verhuurmodel pakt dit direct
-aan door speelgoed voor meerdere gezinnen in omloop te houden, met
-uitsluitend milieuvriendelijke materialen.
+De ondernemer wil textielafval verminderen: naar schatting wordt circa 85%
+van alle textiel jaarlijks weggegooid, en kinderkleding wordt door de snelle
+groei van kinderen extra snel ontgroeid — vaak nog nauwelijks gedragen. Een
+verhuurmodel pakt dit direct aan door kleding voor meerdere gezinnen in
+omloop te houden, met uitsluitend GOTS-/OEKO-TEX-gecertificeerde,
+milieuvriendelijke materialen.
 
-*Bronnen: sciencedirect.com, beyondplastics.org.*
+*Bronnen: theroundup.org, earth.org.*
 
 ## Nog in te vullen (persoonlijk)
 - [ ] Persoonlijke motivatie: wat drijft de ondernemer specifiek om dit te
       starten (bv. ervaring als ouder, duurzaamheidsachtergrond,
       ondernemersdrang)?
-- [ ] Korte-termijndoel (bv. eerste 50 abonnees binnen zes maanden in
-      [stad])
-- [ ] Middellange-termijndoel (bv. landelijke dekking, X abonnees in jaar 2)
-- [ ] Lange-termijndoel / impactambitie (bv. X kg speelgoedafval bespaard)
+- [ ] Korte-termijndoel (bv. eerste 60 abonnees binnen zes maanden in
+      Utrecht)
+- [ ] Middellange-termijndoel (bv. landelijke dekking, 150+ abonnees in
+      jaar 2)
+- [ ] Lange-termijndoel / impactambitie (bv. X liter water / kg
+      textielafval bespaard)
 - [ ] Beschikbare tijd per week (parttime naast een baan / fulltime)
 - [ ] Beschikbaar eigen kapitaal (koppelen aan
       `04-financieel-plan/financieringsbegroting.md`)

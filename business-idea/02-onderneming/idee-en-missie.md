@@ -1,50 +1,53 @@
 # Idee en missie
 
 ## Het idee
-Een speelgoedverhuurabonnement voor gezinnen met jonge kinderen. In plaats
-van speelgoed te kopen dat binnen enkele maanden wordt ontgroeid, betaalt de
-klant een vast maandbedrag om speelgoed te lenen uit de collectie van het
-bedrijf. Zodra een kind uitgekeken is op een stuk speelgoed, wordt het
-geretourneerd (of geruild) en doorgegeven aan het volgende gezin. Al het
-speelgoed is vervaardigd uit milieuvriendelijke materialen (FSC-gecertificeerd
-hout, biologisch textiel, gerecycled/biobased kunststof, natuurlijke
-verf/afwerking) — geen maagdelijk wegwerpplastic.
+Een kledingverhuurabonnement voor gezinnen met jonge kinderen. In plaats
+van voortdurend nieuwe kleding te kopen die binnen enkele maanden wordt
+ontgroeid, betaalt de klant een vast maandbedrag om kledingstukken te lenen
+uit de collectie van het bedrijf. Zodra een kind een maat is ontgroeid,
+wordt de kleding geretourneerd (of geruild voor een grotere maat) en
+doorgegeven aan het volgende gezin. Alle kleding is vervaardigd uit
+milieuvriendelijke materialen (GOTS-gecertificeerd biologisch katoen, wol,
+hennep, gerecyclede vezels) — geen fast fashion.
 
 ## Missie
-Het verminderen van speelgoedafval en de milieu-impact van kinderspeelgoed
-door speelgoed zo lang mogelijk in omloop te houden voor zoveel mogelijk
-gezinnen, terwijl ouders een betaalbare, opgeruimde en veilige manier krijgen
-om hun kind continu vernieuwd speelgoed aan te bieden.
+Het verminderen van textielafval en de milieu-impact van kinderkleding door
+kledingstukken zo lang mogelijk in omloop te houden voor zoveel mogelijk
+gezinnen, terwijl ouders een betaalbare, praktische en veilige manier
+krijgen om hun snelgroeiende kind continu passende kleding aan te bieden.
 
 ## Probleem dat het bedrijf oplost
-- **Speelgoedafval is omvangrijk**: naar schatting belandt circa 80% van al
-  het speelgoed uiteindelijk op de vuilnisbelt, in de verbrandingsoven of in
-  de oceaan; speelgoed vormt bijna 6% van het plastic afval op stortplaatsen,
-  en kinderen in westerse landen bezitten gemiddeld circa 18 kg plastic
-  speelgoed. Het meeste conventionele speelgoed bestaat uit gemengde
-  materialen (plastic/metaal) die economisch niet te recyclen zijn.
-- **Korte gebruiksduur per huishouden**: kinderen groeien binnen weken tot
-  maanden uit speelgoed of raken de interesse kwijt, waardoor het grootste
-  deel van de levensduur van een stuk speelgoed onbenut blijft zodra het één
-  gezin verlaat.
-- **Kosten en rommel voor ouders**: continu leeftijdsgeschikt speelgoed kopen
-  is duur en zorgt voor opslag-/rommelproblemen; ouders willen in toenemende
-  mate minder maar beter, niet-toxisch speelgoed in plaats van meer plastic.
+- **Textielafval is omvangrijk**: wereldwijd belandt jaarlijks circa 11,3
+  megaton textiel op stortplaatsen (een stijging van 80% sinds 2000), en
+  circa 85% van alle textiel wordt jaarlijks weggegooid. Van de 100 miljard
+  kledingstukken die jaarlijks geproduceerd worden, eindigt 92 miljoen ton
+  op de vuilnisbelt — omgerekend elke seconde een vuilniswagen vol kleding.
+- **Extreem korte gebruiksduur bij kinderkleding**: kinderen — vooral
+  baby's en peuters — groeien binnen enkele maanden uit een maat, waardoor
+  kledingstukken vaak nog nauwelijks zijn gedragen wanneer ze worden
+  afgedankt; veel fast-fashion kledingstukken worden minder dan tien keer
+  gedragen voordat ze worden weggegooid.
+- **Huidcontact en materiaalkeuze**: baby's en peuters brengen tot circa 20
+  uur per dag in direct contact met kleding door, wat de keuze voor
+  niet-toxische, huidvriendelijke materialen extra belangrijk maakt.
+- **Kosten voor ouders**: continu nieuwe kleding kopen voor een snelgroeiend
+  kind is duur; huren maakt het mogelijk alleen te betalen voor de periode
+  dat een maat daadwerkelijk gedragen wordt.
 
 ## Waarom dit werkt (marktvalidatie)
-Dit model bestaat al en groeit: Pligo en RePlayClub bieden vandaag al
-speelgoedverhuurabonnementen aan in Nederland (leeftijd circa 0–6 jaar,
-krediet-/tokensysteem, duurzaam geproduceerd speelgoed, professionele
-reiniging tussen verhuringen), en Whirli exploiteert een vergelijkbaar,
-grootschaliger tokenmodel in het Verenigd Koninkrijk (vanaf £ 9,99 per maand
-— Britse referentie, geen Nederlandse markt). De wereldwijde markt voor
-duurzaam/milieuvriendelijk speelgoed groeit naar verwachting met circa
-11–13% per jaar tot begin jaren 2030, en Nederland was in 2025 wereldwijd de
-snelst groeiende grote speelgoedmarkt (+15% ten opzichte van het jaar
-ervoor) — beide wijzen op sterke marktgroei voor een op duurzaamheid
-gepositioneerd, circulair speelgoedbedrijf.
+Dit model bestaat al en groeit: Hulaaloop, YoungYarn, Wolletjes & Zijde en
+Red Orka/Circos bieden vandaag al kledingverhuur- of
+kledingabonnementen aan in Nederland, gericht op baby's en jonge kinderen,
+en Bundlee exploiteert een vergelijkbaar model in het Verenigd Koninkrijk
+(vanaf £ 24 per maand — Britse referentie, geen Nederlandse markt), met een
+claim van 86% minder CO2e-uitstoot en 96% minder waterverbruik ten opzichte
+van nieuw kopen. De wereldwijde markt voor kinderkledingverhuur groeit naar
+verwachting met circa 12,4% per jaar, sneller dan de bredere onlinekleding-
+verhuurmarkt (circa 8–11% per jaar) — een sterke aanwijzing dat juist het
+kindersegment goed aansluit bij het verhuurmodel, vanwege de snelle groei
+van kinderen.
 
-*Bronnen: sciencedirect.com (levenscyclusanalyse speelgoed), beyondplastics.org,
-ballardbear.com, pligo.nl, replayclub.nl, whirli.com, gminsights.com
-(markt voor milieuvriendelijk speelgoed), vocal.media (Nederlandse
-speelgoedmarkt 2026).*
+*Bronnen: theroundup.org, earth.org (textielafval), uniformmarket.com
+(fast fashion), hulaaloop.com, youngyarn.com, wolletjesenzijde.nl,
+bundlee.co.uk, marketintelo.com (kinderkledingverhuur-markt),
+fortunebusinessinsights.com (onlinekledingverhuur-markt).*

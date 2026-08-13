@@ -3,29 +3,31 @@
 De 4 P's:
 
 ## Product
-Maandelijks speelgoedverhuurabonnement, krediet-/tokengebaseerd, uitsluitend
-milieuvriendelijke materialen, catalogus ingedeeld naar leeftijdsgroep
-(0–1, 1–2, 2–4, 4–6 jaar), professionele reiniging en EN 71-conformiteit op
-elk artikel.
+Maandelijks kledingverhuurabonnement, samengesteld in outfits, uitsluitend
+GOTS-/OEKO-TEX-gecertificeerde materialen, catalogus ingedeeld naar maat
+(circa 50–92 in fase 1), professioneel wasproces en EN 14682-/
+REACH-conformiteit op elk kledingstuk.
 
 ## Prijs
 Benchmark ten opzichte van directe concurrenten:
-- Pligo/RePlayClub (Nederland): vergelijkbare kredietgebaseerde abonnementen.
-- Whirli (Britse referentie): abonnementen vanaf £ 9,99 per maand tot
-  £ 24,97 per maand (240 tokens).
+- Hulaaloop (Nederland): vanaf € 17,50 per maand voor 6 kledingstukken
+  (2 outfits).
+- Bundlee (Britse referentie): vanaf £ 24 per maand.
 
 Voorgestelde startstructuur voor fase 1 (pilot, zie
 `04-financieel-plan/investeringsbegroting.md`):
-- **Basis** — circa € 19 per maand (startkrediet, 1 wisseling per maand)
-- **Plus** — circa € 29 per maand (groter krediet, onbeperkt wisselen)
+- **Basis** — circa € 19 per maand (2 outfits / 6 kledingstukken,
+  concurrerend met Hulaaloop)
+- **Plus** — circa € 32 per maand (4 outfits / 12 kledingstukken, vaker
+  wisselen)
 
-**Gezin/Kinderdagverblijf** (maatwerkprijs voor bulk-/B2B-afname) wordt pas
-geïntroduceerd in fase 2, samen met het B2B-kanaal (zie `03-markt/doelgroep.md`,
-secundaire doelgroep).
+**Kinderdagverblijf** (maatwerkprijs voor bv. reserve-/regenkleding op
+locatie) wordt pas geïntroduceerd in fase 2, samen met het B2B-kanaal (zie
+`03-markt/doelgroep.md`, secundaire doelgroep).
 
-**Borg**: een terugbetaalbare borg van € 25 per abonnement (Basis) tot
-€ 40 per abonnement (Plus) wordt bij aanvang eenmalig in rekening gebracht
-en volledig terugbetaald bij beëindiging, mits het geretourneerde speelgoed
+**Borg**: een terugbetaalbare borg van € 15 per abonnement (Basis) tot
+€ 25 per abonnement (Plus) wordt bij aanvang eenmalig in rekening gebracht
+en volledig terugbetaald bij beëindiging, mits de geretourneerde kleding
 niet beschadigd is. De borg dekt het verlies-/schaderisico deels af (zie
 `swot-analyse.md`, bedreigingen) en wordt niet als omzet geboekt (zie
 `04-financieel-plan/exploitatiebegroting.md`).
@@ -41,22 +43,22 @@ niet beschadigd is. De borg dekt het verlies-/schaderisico deels af (zie
 **Fase 2 (na validatie van de pilot)**:
 - Landelijke bezorging (koerier) naar de bredere Randstad en daarna heel
   Nederland.
-- B2B-kanaal: directe benadering van kinderdagverblijven/peuterspeelzalen
-  (zie `03-markt/doelgroep.md`, secundaire doelgroep).
+- B2B-kanaal: directe benadering van kinderdagverblijven (zie
+  `03-markt/doelgroep.md`, secundaire doelgroep).
 
 ## Promotie
 **Fase 1 (pilot, regio Utrecht)**:
-- **SEO/content**: inzetten op zoektermen als "speelgoed huren",
-  "duurzaam speelgoed abonnement" — beide concurrenten scoren hier al goed,
-  dus contentmarketing (blog, vergelijkingspagina's) en SEO zijn essentieel
-  om te concurreren.
-- **Social media**: Instagram/TikTok/Pinterest gericht op ouders — visuele
-  content, "voor en na opruimen", impactcijfers (vermeden plastic, gered
-  speelgoed).
-- **Samenwerkingen**: opvoedinfluencers/mamablogs en
-  duurzaamheidsgemeenschappen gericht op de regio Utrecht.
-- **Referral-programma**: krediet-/tokenbonus voor het aanbrengen van andere
-  ouders (met succes toegepast door Whirli).
+- **SEO/content**: inzetten op zoektermen als "kinderkleding huren",
+  "duurzame babykleding abonnement" — concurrenten als Hulaaloop en
+  YoungYarn scoren hier al goed, dus contentmarketing (blog,
+  vergelijkingspagina's) en SEO zijn essentieel om te concurreren.
+- **Social media**: Instagram/TikTok/Pinterest gericht op (aanstaande)
+  ouders — visuele content (outfits, "voor en na"), impactcijfers
+  (bespaard water, vermeden textielafval).
+- **Samenwerkingen**: kraamzorg- en consultatiebureaus, opvoedinfluencers/
+  mamablogs en duurzaamheidsgemeenschappen gericht op de regio Utrecht.
+- **Referral-programma**: kortingsbonus voor het aanbrengen van andere
+  ouders.
 - **Lokaal/community**: babybeurzen, speelgroepen, duurzaamheidsmarkten in
   Utrecht en directe omgeving.
 

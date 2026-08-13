@@ -10,7 +10,7 @@
 - [ ] BTW-nummer ontvangen van de Belastingdienst (automatisch na
       KVK-inschrijving)
 - [ ] Bedrijfsaansprakelijkheidsverzekering afgesloten vóór de eerste
-      verhuring (belangrijk gezien het productrisico bij speelgoed voor
-      kinderen)
-- [ ] EN 71-conformiteit van de startvoorraad geverifieerd
-      (mechanisch/fysisch, ontvlambaarheid, EN 71-20-hygiëne/reinigbaarheid)
+      verhuring
+- [ ] EN 14682-conformiteit (koorden/treksluitingen) en REACH-conformiteit
+      van de startvoorraad geverifieerd
+- [ ] GOTS-/OEKO-TEX-certificering van leveranciers gecontroleerd

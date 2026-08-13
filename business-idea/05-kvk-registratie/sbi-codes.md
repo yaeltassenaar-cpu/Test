@@ -1,15 +1,13 @@
 # SBI-codes
 
 ## Hoofdactiviteit
-**77.29.9 — Verhuur van overige consumentenartikelen (rest)**, onderdeel
+**77.29.2 — Verhuur van kleding en huishoudelijke artikelen**, onderdeel
 van SBI 77.29 "Verhuur van overige consumentenartikelen". Dit is de
-gangbare KVK/CBS-code voor verhuur van artikelen zoals speelgoed aan
-particulieren (circa 3.175 actieve bedrijven in deze branche in Nederland).
+gangbare KVK/CBS-code voor verhuur van kleding aan particulieren.
 
 ## Mogelijke aanvullende code(n)
-- **47.65 — Winkels in spellen en speelgoed**, indien het bedrijf in een
-  latere fase ook uitgefaseerd speelgoed tweedehands gaat verkopen naast
-  verhuren.
+- **47.71 — Winkels in kleding**, indien het bedrijf in een latere fase
+  ook uitgefaseerde kleding tweedehands gaat verkopen naast verhuren.
 - **47.91.2 — Postorder-/internethandel**, indien de nadruk (mede) op
   webshopverkoop komt te liggen.
 

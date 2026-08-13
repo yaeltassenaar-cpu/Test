@@ -1,13 +1,15 @@
 # Rechtsvorm
 
 ## Overwegingen
-- **Aansprakelijkheid**: het bedrijf verhuurt fysieke producten aan gezinnen
-  met jonge kinderen — het productveiligheids-/aansprakelijkheidsrisico is
-  reëel (verstikkingsgevaar, letsel, allergische reacties op materialen),
-  ook bij volledige EN 71-conformiteit. Dit pleit voor een rechtsvorm met
-  beperkte aansprakelijkheid (BV) zodra volume/risico toeneemt, gecombineerd
-  met een bedrijfsaansprakelijkheidsverzekering ongeacht de gekozen
-  rechtsvorm.
+- **Aansprakelijkheid**: het bedrijf verhuurt kleding aan gezinnen met
+  jonge kinderen — het risico is aanwezig maar minder ernstig van aard dan
+  bij fysiek speelgoed: vooral huidirritatie/allergie bij gevoelige
+  babyhuid, en de wettelijke eisen rond koorden/treksluitingen (EN 14682)
+  en brandbaarheid van kinderslaapkleding. Ook bij volledige GOTS-/
+  OEKO-TEX-conformiteit blijft aansprakelijkheidsdekking nodig, wat pleit
+  voor een rechtsvorm met beperkte aansprakelijkheid (BV) zodra
+  volume/risico toeneemt, gecombineerd met een
+  bedrijfsaansprakelijkheidsverzekering ongeacht de gekozen rechtsvorm.
 - **Belasting**: een eenmanszaak wordt belast via de inkomstenbelasting (met
   zelfstandigenaftrek/startersaftrek en MKB-winstvrijstelling die de
   belastbare winst in de eerste, winstarme jaren verlagen); een BV wordt

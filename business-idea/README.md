@@ -1,11 +1,11 @@
-# Ondernemingsplan: duurzaam speelgoedverhuurabonnement
+# Ondernemingsplan: duurzaam kinderkledingverhuurabonnement
 
-Een maandelijks abonnement waarbij ouders kinderspeelgoed huren — volledig
-vervaardigd uit milieuvriendelijke materialen — in plaats van het te kopen.
-Speelgoed wordt geretourneerd/geruild zodra het is ontgroeid en doorgegeven
-aan het volgende gezin, wat speelgoedafval vermindert (naar schatting
-belandt circa 80% van al het speelgoed vandaag op de vuilnisbelt of in de
-verbrandingsoven).
+Een maandelijks abonnement waarbij ouders kinderkleding huren — volledig
+vervaardigd uit GOTS-/OEKO-TEX-gecertificeerde milieuvriendelijke
+materialen — in plaats van het te kopen. Kleding wordt geretourneerd/
+geruild zodra een maat is ontgroeid en doorgegeven aan het volgende gezin,
+wat textielafval vermindert (naar schatting wordt circa 85% van alle
+textiel vandaag jaarlijks weggegooid).
 
 Deze map bevat alles wat nodig is om het bedrijf te ontwikkelen en in te
 schrijven, gestructureerd volgens de aanpak van de
@@ -14,7 +14,8 @@ ondernemingsplan en het starten van een bedrijf in Nederland.
 
 **Schrijfstijl**: alle documenten in deze map volgen de regels in
 [`CLAUDE.md`](./CLAUDE.md) — Nederlands, formeel ondernemingsplan-register,
-bronvermelding bij statistieken, consistente valutanotatie.
+bronvermelding bij statistieken, consistente valutanotatie, en een
+consistentiecontrole bij elke wijziging.
 
 ## Structuur
 
@@ -25,27 +26,19 @@ bronvermelding bij statistieken, consistente valutanotatie.
 - `05-kvk-registratie/` — KVK-inschrijving: bedrijfsnaam, SBI-codes, checklist ✅ concept gereed (bedrijfsnaam nog te kiezen)
 - `06-na-registratie/` — Bedrijfsvoering: administratie, belastingen, verzekeringen, vergunningen ✅ concept gereed
 
-## Verwerkte verbeteringen op basis van de SWOT-analyse
-Op basis van `03-markt/swot-analyse.md` zijn de belangrijkste (P0/P1)
-verbeteringen doorgevoerd: een gekozen startniche (0–2 jaar, regio Utrecht,
-zie `03-markt/doelgroep.md`), een gefaseerde investeringsbegroting om het
-startkapitaal te beperken, een vastgesteld borgbedrag, concrete
-retentietactieken tegen churn, en een sectie operationele risico's en
-mitigatie. Overige suggesties (concurrentievergelijkingstabel, B2B-kanaal
-uitwerken, subsidies uitzoeken, impactdashboard) staan als vervolgstappen
-open.
-
 ## Belangrijkste bevindingen uit deskresearch
-- **Directe concurrenten al actief in Nederland**: Pligo en RePlayClub
-  bieden vergelijkbare speelgoedverhuurabonnementen aan; Whirli
-  (Verenigd Koninkrijk) bevestigt het model op grotere schaal. Zie
-  `03-markt/concurrentie.md`.
-- **SBI-code**: 77.29.9 — Verhuur van overige consumentenartikelen.
+- **Meerdere directe concurrenten al actief in Nederland**: Hulaaloop,
+  YoungYarn, Wolletjes & Zijde en Red Orka/Circos bieden vergelijkbare
+  kledingverhuur- of -abonnementen aan; Bundlee (Verenigd Koninkrijk)
+  bevestigt het model op grotere schaal. Zie `03-markt/concurrentie.md`.
+- **SBI-code**: 77.29.2 — Verhuur van kleding en huishoudelijke artikelen.
 - **BTW**: algemeen tarief van 21% van toepassing op verhuurdiensten.
-- **Juridisch**: EN 71-conformiteit (incl. de nieuwe EN 71-20-hygiënenorm)
-  is verplicht voor elk stuk speelgoed, verhuurd of verkocht, binnen de EU.
-- **Grootste risico**: de voorraadinvestering vooraf, vóórdat de
-  abonnementsomzet op gang komt — de kasstroom zorgvuldig plannen (zie
+- **Juridisch**: EN 14682 (koorden/treksluitingen) en de REACH-verordening
+  zijn verplicht voor elk kledingstuk, verhuurd of verkocht, binnen de EU.
+- **Grootste risico**: het dichter beconcurreerde speelveld (vier directe
+  concurrenten) vraagt om een scherpe niche-positionering (zie
+  `03-markt/swot-analyse.md`); daarnaast blijft de voorraadinvestering
+  vooraf een aandachtspunt (zie
   `04-financieel-plan/liquiditeitsbegroting.md`).
 
 ## Voortgang
